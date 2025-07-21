@@ -1,2 +1,3 @@
 hello.py
 .github/workflows/test.yml
+tests/test_hello.py
